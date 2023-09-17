@@ -1,0 +1,14 @@
+a {
+    color: black;
+}
+
+body {
+    background-color: #999999;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: grey;
+    border-width: 5px;
+}
