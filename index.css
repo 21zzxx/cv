@@ -44,3 +44,17 @@ h1, h2 {
     background-color: #66BFBF;
     color: white;
   }
+
+  .news {
+    padding-top: 300px;
+    padding-bottom: 300px;
+    padding-right: 500px;
+    padding-left: 500px;
+  }
+
+  .about {
+    padding-top: 300px;
+    padding-bottom: 300px;
+    padding-right: 500px;
+    padding-left: 600px;
+  }
